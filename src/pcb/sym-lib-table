@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name GCCMX-rescue)(type Legacy)(uri ${KIPRJMOD}/GCCMX-rescue.lib)(options "")(descr ""))
+  (lib (name "GCCMX-rescue")(type "Legacy")(uri "${KIPRJMOD}/GCCMX-rescue.lib")(options "")(descr ""))
+  (lib (name "PriloSilkscreen")(type "KiCad")(uri "E:/Projects/GCC/KiCad Libs/PriloSilkscreen.kicad_sym")(options "")(descr ""))
 )
