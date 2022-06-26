@@ -10,7 +10,7 @@ ToDo: Replace these images with images made from this repository's files (these 
 
 The PCB is design to allow easy surface mount soldering of a Raspberry Pi Pico, the preferred board for DIY rectangle controllers in the community currently. It is also designed to easily solder a [Model U](https://github.com/Crane1195/Model-U) to with headers.
 
-The PCB is originally designed to allow mounting a Model S and a Brook board, but you can also just solder wires to the through holes. The pin holes are labeled on the silk screen of the board.
+Credit to RMZ Customs for the hand drawn Pico diagram, and Austin for the modified Pico kicad files (and for lots of help in general).
 
 ## Parts:
 1. [2.54mm pitch low profile header](https://www.digikey.com/en/products/detail/samtec-inc/TLW-136-05-T-S/1105024) (allows for thinner rectangle. alternatively use regular (2.50mm insulatio height) headers and allow for an extra 0.98mm of clearance in the case)
